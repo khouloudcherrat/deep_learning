@@ -1,4 +1,11 @@
 # Deep Learning Labs
+<p align="center">
+ <a href="https://numpy.org/"><img src="https://numpy.org/images/logos/numpy_logo.svg" alt="NumPy" height="70"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="pandas" height="70"></a>
+  <a href="https://www.tensorflow.org/"><img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" height="70"></a>
+  <a href="https://matplotlib.org/"><img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" height="70"></a>
+  <a href="https://scikit-learn.org/"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" height="70"></a>
+</p>
 
 This repository contains a series of deep learning labs developed during my master's degree in computer science. These labs provide practical experience with various deep learning concepts using frameworks such as TensorFlow and Keras.
 
